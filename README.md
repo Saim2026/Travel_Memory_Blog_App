@@ -357,14 +357,14 @@ Do the following settings on Cloudflare:
 | A    | api  | <EC2_PUBLIC_IP>       |
 
 
-<img width="792" height="405" alt="a14" src="https://github.com/user-attachments/assets/31be00f8-6239-493b-85c8-8d27ebf5ed53" />
-
-
 ## Step 7.2 — Update the Nameservers
 
 In the domain DNS provider, **update the nameservers**:
 
 <img width="763" height="485" alt="Screenshot 2026-02-16 201423" src="https://github.com/user-attachments/assets/644bfd5d-fb55-40c4-b8e5-c4e72d9a0be2" />
+
+<img width="1351" height="440" alt="new2" src="https://github.com/user-attachments/assets/ea8271a0-bbe7-4b1a-b252-133f12961e2e" />
+
 
 Copy the nameservers from Cloudflare and paste them to the DNS provider (GoDaddy)<br>
 (Wait a few minutes for DNS to propagate)
